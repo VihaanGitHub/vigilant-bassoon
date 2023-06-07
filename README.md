@@ -1,7 +1,8 @@
 # vigilant-bassoon
 This is my first project on GitHub! I am trying to thrive to enhance my portfolio!
 <html>
-  <title> My First Project! </title>
+  <style="form" type="text/css" href="" border="2px solid black">
+  <p> My First Project! </p>
   <head> My first github! <head>
     <body bgcolor="red">
       <form>
