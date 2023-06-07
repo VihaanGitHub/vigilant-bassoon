@@ -7,18 +7,14 @@ This is my first project on GitHub! I am trying to thrive to enhance my portfoli
   3. Please dont let anyone under the age of 5 use this website.
   And Enjoy! </p>
      
-      <table>
-        <th>
-          <td>
-          This is HTML code
-        </td>
-        </th>
-      <tr>
-        <td>
-          This is GitHub
-        </td>
-        <td>
-  </table>
+      <p>
+        <br> This is HTML code </br>
+
+   
+         <br>  This is GitHub </br>
+     </p>
+  <br>
+  <hr width="1000px" height="4px">
 <table>
 My name is Vihaan.
       </tr>
